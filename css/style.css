@@ -1,0 +1,245 @@
+body{
+	font-family: 'Lato', sans-serif;
+
+}
+
+/*header section start*/
+header{
+	padding: 25px 0px;
+}
+/*section one start*/
+.sec-one{
+	background: url(../img/bg.png)no-repeat center top;
+	background-size: cover;
+	padding: 242px 0 88px 0;
+}
+.sec-one-a h2{
+		font-size: 120pt;
+		color: white;	
+}
+.sec-one-a span{
+	border-bottom: 2px solid #15a4fa;
+	display: block;
+	margin-bottom: 38px;
+	 
+	
+}
+.sec-one-a p{
+	font-size: 20pt;
+		color: white;
+		margin-bottom: 67px;
+	
+}
+.sec-one-a button{
+	font-size:18pt;
+		color: white;
+		background: transparent;
+		border: 2px solid #15a4fa;
+		padding: 20px 35px;
+		margin-bottom: 177px;
+	
+}
+.sec-one-a ul i{
+	color: white;
+	font-size: 35pt;
+	margin-right: 20px;
+}
+/*section two start*/
+.sec-two{
+	padding: 80px 0 109px 0;
+	background: #f6f9f9;
+}
+.sec-two h2{
+	font-size: 40pt;
+	margin: 40px;
+	
+}
+.sec-two p{
+	font-size: 20pt;
+
+	
+}
+/*section three start*/
+.sec-three{
+	padding: 65px 0;
+
+} 
+.icon{
+	background: #2196f3;
+	width: 70px;
+	height: 70px;
+	line-height: 70px;
+	display: block;
+	margin: 0 auto;
+	color: white;
+	font-size: 45px;
+	margin-bottom: 32px;
+
+}
+.sec-three h3{
+	margin-bottom: 30px;
+}
+.sec-three p{
+
+}
+/*section four start*/
+.sec-four{
+	background: #f6f9f9;
+}
+.four-a{
+	text-align: center;
+	margin-top: 96px;
+}
+.one-r{
+	margin-top:89px;
+
+}
+.two-r{
+	padding-top: 30px;
+	margin-bottom: 115px;
+}
+.four-b{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+}
+.four-c{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+
+}
+.four-d{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+
+}
+.four-e{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+
+}
+.four-f{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+
+}
+.four-g{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+
+}
+
+
+.four-b-one{
+	position: absolute;
+	background: #2196f373;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	right: -100%;
+}
+
+.four-b-one i{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: white;
+
+}
+.four-b:hover .four-b-one{
+	right: 0;
+}
+.four-c:hover .four-b-one{
+	right: 0;
+}
+.four-d:hover .four-b-one{
+	right: 0;
+}
+.four-e:hover .four-b-one{
+	right: 0;
+}
+.four-f:hover .four-b-one{
+	right: 0;
+}
+.four-g:hover .four-b-one{
+	right: 0;
+}
+/*section five start*/
+.sec-five{
+	background: url(../img/bg1.png)no-repeat center top;
+	background-size: cover;
+	padding: 70px 0 106px 0;
+	}
+	.sec-five h2,p{
+		color: white;
+	
+	}
+textarea.cstm-text{
+	width: 100%;
+	height: 154px;
+	padding: 11px;
+}
+.form-footer-left{
+	float: left;
+	color: white;
+}
+.form-footer-left input{
+	margin-right: 5px;
+
+}
+
+.btn.btn-primary{
+	background: transparent!important ;
+	border: 1px solid #15a4fa!important;
+}
+.form-footer-right{
+	float: right;
+}
+/*footer seftion start*/
+.footer{
+	padding: 25px;
+
+}
+.left{
+	float: left;
+	color: #a7a8a8;
+}
+.right{
+	float: right;
+}
+.footer-icon{
+	background:#15a4fa;
+	margin:5px;
+	color: white;
+	display: inline-block;
+	width: 38px;
+	height: 38px;
+	line-height: 38px;
+
+
+}
+.fa.fa-facebook{
+		margin-left:14px;
+}
+.fa.fa-twitter{
+margin-left:14px;}
+.fa.fa-google-plus{
+	margin-left:10px;
+	
+}
+.fa.fa-linkedin{
+margin-left:14px;}
+.footer span{
+	display: block;
+	margin-top: 20px;
+
+}
+
+
+
+
